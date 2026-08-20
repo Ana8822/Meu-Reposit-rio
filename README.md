@@ -5,4 +5,4 @@ e hoje estou aprendendo a programar e utilizar o Github
 
 ##O que estou aprendedo?
 Github
-Versionamento
+e versionamento
